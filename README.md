@@ -1,10 +1,3 @@
-# ADVPL
-ADVPL from base to advanced
-
-## Projeto aberto para quem quiser colaborar
-
-## list of developments in portuguese
-
 Iniciante (1-10):
 1.	Hello World ADVPL:
 •	Crie um programa simples que exiba "Hello, World!" no console.
@@ -25,52 +18,47 @@ Iniciante (1-10):
 9.	Cálculo de Folha de Pagamento Básico:
 •	Implemente um programa para calcular a folha de pagamento com informações básicas.
 10.	Consulta de Dados em DBF:
-•	Desenvolva um programa que consulta dados em um arquivo DBF.[
-
-
-Intermediário (11-20):
-12.	Integração com Excel:
+•	Desenvolva um programa que consulta dados em um arquivo DBF.
+<br><br><br>Intermediário (11-20):<br><br>
+11.	Integração com Excel:
 •	Explore a integração do ADVPL com planilhas do Excel.
-13.	Sistema de Compras e Fornecedores:
+12.	Sistema de Compras e Fornecedores:
 •	Crie um sistema para gerenciar compras, fornecedores e estoque.
-14.	Relatórios Gráficos Simples:
+13.	Relatórios Gráficos Simples:
 •	Adicione funcionalidades para gerar relatórios gráficos básicos.
-15.	Aplicativo Móvel Simples:
+14.	Aplicativo Móvel Simples:
 •	Desenvolva uma aplicação móvel básica em ADVPL.
-16.	Controle de Versão de Documentos:
+15.	Controle de Versão de Documentos:
 •	Implemente um sistema que controla a versão de documentos.
-17.	Sistema de CRM:
+16.	Sistema de CRM:
 •	Gerencie o relacionamento com clientes, registrando interações.
-18.	Workflow para Aprovações Simples:
+17.	Workflow para Aprovações Simples:
 •	Crie um sistema de workflow para aprovações básicas.
-19.	Integração com API RESTful:
+18.	Integração com API RESTful:
 •	Explore a integração do ADVPL com APIs RESTful para envio e recebimento de dados.
-20.	Sistema de BI Básico:
+19.	Sistema de BI Básico:
 •	Integre seu sistema ADVPL com ferramentas de Business Intelligence para visualização de dados.
-21.	Projeto de Sistema ERP Simples:
+20.	Projeto de Sistema ERP Simples:
 •	Desenvolva um sistema ERP básico que abrange várias funcionalidades como finanças, estoque e recursos humanos.
-
-
-Avançado (21-30):
-22.	Autenticação Avançada:
+<br><br><br>Avançado (21-30):<br><br>
+21.	Autenticação Avançada:
 •	Implemente um sistema de autenticação mais robusto com controle de permissões.
-23.	Geração de Documentos PDF:
+22.	Geração de Documentos PDF:
 •	Desenvolva um recurso para gerar documentos em PDF a partir do ADVPL.
-24.	Sistema de Notificações:
+23.	Sistema de Notificações:
 •	Adicione um sistema de notificações para alertar os usuários sobre eventos importantes.
-25.	Controle de Lotes:
+24.	Controle de Lotes:
 •	Implemente um sistema para rastrear e gerenciar lotes de produtos.
-26.	Integração com Web Services SOAP:
+25.	Integração com Web Services SOAP:
 •	Explore a integração com serviços web usando o protocolo SOAP.
-27.	Sistema de Dashboard Interativo:
+26.	Sistema de Dashboard Interativo:
 •	Crie um dashboard interativo para visualização rápida de dados importantes.
-28.	Controle de Orçamento Financeiro:
+27.	Controle de Orçamento Financeiro:
 •	Desenvolva um módulo para controle de orçamento financeiro.
-29.	Integração com Bancos de Dados Externos:
+28.	Integração com Bancos de Dados Externos:
 •	Conecte-se a bancos de dados externos para troca de dados.
-30.	Sistema de Multilíngue:
+29.	Sistema de Multilíngue:
 •	Torne seu sistema capaz de lidar com múltiplos idiomas.
-31.	Implementação de Testes Unitários:
+30.	Implementação de Testes Unitários:
 •	Adicione testes unitários ao seu código para garantir a robustez e qualidade.
-
 
