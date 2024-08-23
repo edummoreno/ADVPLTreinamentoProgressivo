@@ -1,166 +1,172 @@
-Objetivo desenvolver softaware em ADVPL do básico até o avançado.
+# Lista de Projetos em ADVPL
 
-Nível 0: Extremamente Básico
-Criação de Campo Simples:
+## Nível 0: Extremamente Básico
 
-Subnível 0.1: Criação de um campo em uma tabela existente com um tipo de dado básico.
-Subnível 0.2: Adição de uma descrição ao campo e definição de tamanho.
-Exibição de Mensagem no Console:
+- ### Criação de Campo Simples
+  - **Subnível 0.1:** Criação de um campo em uma tabela existente com um tipo de dado básico.
+  - **Subnível 0.2:** Adição de uma descrição ao campo e definição de tamanho.
 
-Subnível 0.1: Exibir uma mensagem estática no console de log.
-Subnível 0.2: Exibir uma mensagem dinâmica com uma variável simples.
-Acesso a Dados Básicos:
+- ### Exibição de Mensagem no Console
+  - **Subnível 0.1:** Exibir uma mensagem estática no console de log.
+  - **Subnível 0.2:** Exibir uma mensagem dinâmica com uma variável simples.
 
-Subnível 0.1: Criação de um script para acessar dados de uma tabela e exibir os resultados.
-Subnível 0.2: Exibição de dados de uma tabela específica com uma condição simples (ex.: clientes ativos).
-Criação de Tela Básica:
+- ### Acesso a Dados Básicos
+  - **Subnível 0.1:** Criação de um script para acessar dados de uma tabela e exibir os resultados.
+  - **Subnível 0.2:** Exibição de dados de uma tabela específica com uma condição simples (ex.: clientes ativos).
 
-Subnível 0.1: Criação de uma tela básica com um campo de entrada e um botão de ação.
-Subnível 0.2: Adição de uma ação básica ao botão (ex.: exibir uma mensagem ou salvar dados).
-Nível 1: Muito Fácil
-Mensagem de Boas-Vindas:
+- ### Criação de Tela Básica
+  - **Subnível 0.1:** Criação de uma tela básica com um campo de entrada e um botão de ação.
+  - **Subnível 0.2:** Adição de uma ação básica ao botão (ex.: exibir uma mensagem ou salvar dados).
 
-Desenvolva um script que exiba uma mensagem de boas-vindas personalizada quando o usuário acessar o sistema.
-Relatório Simples:
+## Nível 1: Muito Fácil
 
-Crie um relatório que exiba uma lista básica de clientes com informações essenciais.
-Nível 2: Fácil
-Campo Calculado em Tela:
+- **Mensagem de Boas-Vindas:** Desenvolva um script que exiba uma mensagem de boas-vindas personalizada quando o usuário acessar o sistema.
+- **Relatório Simples:** Crie um relatório que exiba uma lista básica de clientes com informações essenciais.
 
-Nível 2.1: Campo calculado básico (soma ou subtração simples).
-Nível 2.2: Campo calculado com formatação básica.
-Validação de Campo Simples:
+## Nível 2: Fácil
 
-Nível 2.1: Verificação de campo não vazio.
-Nível 2.2: Validação de formato (ex.: CPF ou e-mail).
-Cadastro de Cliente com Validação:
+### Campo Calculado em Tela
+- **Nível 2.1:** Campo calculado básico (soma ou subtração simples).
+- **Nível 2.2:** Campo calculado com formatação básica.
 
-Nível 2.1: Inclusão de cliente com verificação de campos obrigatórios.
-Nível 2.2: Validação básica de unicidade, como CPF.
-Relatório com Ordenação:
+### Validação de Campo Simples
+- **Nível 2.1:** Verificação de campo não vazio.
+- **Nível 2.2:** Validação de formato (ex.: CPF ou e-mail).
 
-Nível 2.1: Relatório com ordenação simples por um campo.
-Nível 2.2: Relatório com ordenação crescente e decrescente.
-Nível 3: Básico
-Tela Personalizada:
+### Cadastro de Cliente com Validação
+- **Nível 2.1:** Inclusão de cliente com verificação de campos obrigatórios.
+- **Nível 2.2:** Validação básica de unicidade, como CPF.
 
-Nível 3.1: Tela com campos e botões básicos.
-Nível 3.2: Tela com validações e navegação simples.
-Geração de Arquivo CSV:
+### Relatório com Ordenação
+- **Nível 2.1:** Relatório com ordenação simples por um campo.
+- **Nível 2.2:** Relatório com ordenação crescente e decrescente.
 
-Nível 3.1: Geração de CSV com campos fixos e sem filtros.
-Nível 3.2: Geração de CSV com opções básicas de filtro.
-Relatório Personalizado com Filtros:
+## Nível 3: Básico
 
-Nível 3.1: Relatório com um filtro por critério (ex.: data).
-Nível 3.2: Relatório com múltiplos filtros e configuração de parâmetros.
-Inclusão de Dados com Regras de Negócio:
+### Tela Personalizada
+- **Nível 3.1:** Tela com campos e botões básicos.
+- **Nível 3.2:** Tela com validações e navegação simples.
 
-Nível 3.1: Inclusão com validações básicas e regras de dados.
-Nível 3.2: Inclusão com regras de negócio mais complexas (ex.: validação de intervalos).
-Nível 4: Intermediário
-Tela com Lógica de Cálculo:
+### Geração de Arquivo CSV
+- **Nível 3.1:** Geração de CSV com campos fixos e sem filtros.
+- **Nível 3.2:** Geração de CSV com opções básicas de filtro.
 
-Nível 4.1: Cálculo simples em campos da tela.
-Nível 4.2: Lógica de cálculo com múltiplas variáveis e condições.
-Relatório com Sub-relatórios:
+### Relatório Personalizado com Filtros
+- **Nível 3.1:** Relatório com um filtro por critério (ex.: data).
+- **Nível 3.2:** Relatório com múltiplos filtros e configuração de parâmetros.
 
-Nível 4.1: Relatório com um sub-relatório básico.
-Nível 4.2: Relatório com sub-relatórios e seções detalhadas.
-Rotina de Importação de Dados:
+### Inclusão de Dados com Regras de Negócio
+- **Nível 3.1:** Inclusão com validações básicas e regras de dados.
+- **Nível 3.2:** Inclusão com regras de negócio mais complexas (ex.: validação de intervalos).
 
-Nível 4.1: Importação de dados de CSV com mapeamento básico.
-Nível 4.2: Importação de dados com validação e transformação de dados.
-Integração com Web Service:
+## Nível 4: Intermediário
 
-Nível 4.1: Integração com um Web Service para enviar dados.
-Nível 4.2: Integração com Web Service para enviar e receber dados com autenticação básica.
-Nível 5: Intermediário/Avançado
-Validação e Consistência de Dados:
+### Tela com Lógica de Cálculo
+- **Nível 4.1:** Cálculo simples em campos da tela.
+- **Nível 4.2:** Lógica de cálculo com múltiplas variáveis e condições.
 
-Nível 5.1: Validação de dados com regras simples.
-Nível 5.2: Rotina avançada para verificação e correção de inconsistências.
-Automação de Processos:
+### Relatório com Sub-relatórios
+- **Nível 4.1:** Relatório com um sub-relatório básico.
+- **Nível 4.2:** Relatório com sub-relatórios e seções detalhadas.
 
-Nível 5.1: Automação de tarefas simples (ex.: envio de e-mails ou geração de alertas).
-Nível 5.2: Automação de processos mais complexos com lógica condicional e agendamento.
-Customização de Relatórios Complexos:
+### Rotina de Importação de Dados
+- **Nível 4.1:** Importação de dados de CSV com mapeamento básico.
+- **Nível 4.2:** Importação de dados com validação e transformação de dados.
 
-Nível 5.1: Relatórios com gráficos e formatação avançada.
-Nível 5.2: Relatórios com fontes de dados múltiplas e consolidação de informações.
-Gestão de Permissões Personalizadas:
+### Integração com Web Service
+- **Nível 4.1:** Integração com um Web Service para enviar dados.
+- **Nível 4.2:** Integração com Web Service para enviar e receber dados com autenticação básica.
 
-Nível 5.1: Configuração de permissões básicas para grupos de usuários.
-Nível 5.2: Sistema de permissões detalhado com regras e exceções.
-Nível 6: Avançado
-Desenvolvimento de Módulo Personalizado:
+## Nível 5: Intermediário/Avançado
 
-Nível 6.1: Criação de um módulo com funcionalidades e telas básicas.
-Nível 6.2: Desenvolvimento completo de um módulo com relatórios, integrações e lógica avançada.
-Integração com Sistemas Externos Complexos:
+### Validação e Consistência de Dados
+- **Nível 5.1:** Validação de dados com regras simples.
+- **Nível 5.2:** Rotina avançada para verificação e correção de inconsistências.
 
-Nível 6.1: Integração com sistemas externos para troca de dados.
-Nível 6.2: Integração complexa com manipulação avançada de dados e autenticação.
-Otimização de Performance:
+### Automação de Processos
+- **Nível 5.1:** Automação de tarefas simples (ex.: envio de e-mails ou geração de alertas).
+- **Nível 5.2:** Automação de processos mais complexos com lógica condicional e agendamento.
 
-Nível 6.1: Otimização de consultas e rotinas para melhor desempenho.
-Nível 6.2: Otimização avançada para grandes volumes de dados e cenários críticos.
-Gerenciamento de Transações:
+### Customização de Relatórios Complexos
+- **Nível 5.1:** Relatórios com gráficos e formatação avançada.
+- **Nível 5.2:** Relatórios com fontes de dados múltiplas e consolidação de informações.
 
-Nível 6.1: Controle básico de transações e rollback.
-Nível 6.2: Gerenciamento avançado de transações com controle de erros e recuperação.
-Nível 7: Muito Avançado
-Desenvolvimento de API Interna:
+### Gestão de Permissões Personalizadas
+- **Nível 5.1:** Configuração de permissões básicas para grupos de usuários.
+- **Nível 5.2:** Sistema de permissões detalhado com regras e exceções.
 
-Nível 7.1: Criação de uma API básica para expor funcionalidades.
-Nível 7.2: Desenvolvimento de uma API avançada com documentação e segurança.
-Customização Profunda de Core:
+## Nível 6: Avançado
 
-Nível 7.1: Customização de funcionalidades centrais com impacto limitado.
-Nível 7.2: Alterações profundas na lógica central do Protheus, com riscos e testes abrangentes.
-Solução de Problemas Complexos:
+### Desenvolvimento de Módulo Personalizado
+- **Nível 6.1:** Criação de um módulo com funcionalidades e telas básicas.
+- **Nível 6.2:** Desenvolvimento completo de um módulo com relatórios, integrações e lógica avançada.
 
-Nível 7.1: Resolução de problemas avançados e análise de falhas específicas.
-Nível 7.2: Solução de problemas críticos e complexos envolvendo o sistema e ADVPL.
-Desenvolvimento de Frameworks Internos:
+### Integração com Sistemas Externos Complexos
+- **Nível 6.1:** Integração com sistemas externos para troca de dados.
+- **Nível 6.2:** Integração complexa com manipulação avançada de dados e autenticação.
 
-Nível 7.1: Criação de frameworks internos básicos para funcionalidades extensivas.
-Nível 7.2: Desenvolvimento de frameworks avançados e escaláveis para suporte extensivo a novos módulos e aplicações.
-Nível 8: Extremamente Complexo e Criativo
-Criação de Sistema de Workflow Personalizado:
+### Otimização de Performance
+- **Nível 6.1:** Otimização de consultas e rotinas para melhor desempenho.
+- **Nível 6.2:** Otimização avançada para grandes volumes de dados e cenários críticos.
 
-Subnível 8.1: Desenvolvimento de um sistema completo de gerenciamento de workflow com criação e edição de fluxos de trabalho.
-Subnível 8.2: Implementação de monitoramento e ajustes dinâmicos em tempo real dos fluxos de trabalho.
-Inteligência Artificial e Machine Learning:
+### Gerenciamento de Transações
+- **Nível 6.1:** Controle básico de transações e rollback.
+- **Nível 6.2:** Gerenciamento avançado de transações com controle de erros e recuperação.
 
-Subnível 8.1: Implementação de algoritmos básicos de machine learning para previsão de vendas.
-Subnível 8.2: Desenvolvimento de um módulo de IA avançado para análise de comportamento de clientes e personalização de ofertas.
-Análise e Visualização Avançada de Dados:
+## Nível 7: Muito Avançado
 
-Subnível 8.1: Criação de painéis de controle dinâmicos com gráficos interativos e relatórios avançados.
-Subnível 8.2: Implementação de visualizações 3D e análise em tempo real de grandes volumes de dados.
-Desenvolvimento de Sistema de Recomendação:
+### Desenvolvimento de API Interna
+- **Nível 7.1:** Criação de uma API básica para expor funcionalidades.
+- **Nível 7.2:** Desenvolvimento de uma API avançada com documentação e segurança.
 
-Subnível 8.1: Implementação de um sistema de recomendação básico para produtos ou serviços com base em regras predefinidas.
-Subnível 8.2: Desenvolvimento de um sistema de recomendação avançado usando aprendizado de máquina para personalização dinâmica.
-Criação de Aplicação de Realidade Aumentada (AR):
+### Customização Profunda de Core
+- **Nível 7.1:** Customização de funcionalidades centrais com impacto limitado.
+- **Nível 7.2:** Alterações profundas na lógica central do Protheus, com riscos e testes abrangentes.
 
-Subnível 8.1: Desenvolvimento de uma aplicação AR básica que interage com dados do Protheus.
-Subnível 8.2: Implementação de uma aplicação AR avançada com funcionalidades imersivas e integração completa com o Protheus.
-Integração com Plataformas de Blockchain:
+### Solução de Problemas Complexos
+- **Nível 7.1:** Resolução de problemas avançados e análise de falhas específicas.
+- **Nível 7.2:** Solução de problemas críticos e complexos envolvendo o sistema e ADVPL.
 
-Subnível 8.1: Criação de uma integração básica com uma plataforma de blockchain para registrar transações.
-Subnível 8.2: Desenvolvimento de uma solução completa para garantir integridade, rastreabilidade e segurança dos dados.
-Automação Inteligente com Robotic Process Automation (RPA):
+### Desenvolvimento de Frameworks Internos
+- **Nível 7.1:** Criação de frameworks internos básicos para funcionalidades extensivas.
+- **Nível 7.2:** Desenvolvimento de frameworks avançados e escaláveis para suporte extensivo a novos módulos e aplicações.
 
-Subnível 8.1: Implementação de automação RPA para tarefas repetitivas e processos simples.
-Subnível 8.2: Desenvolvimento de uma solução de RPA avançada com aprendizado contínuo e integração complexa com o sistema.
-Criação de Ambiente de Desenvolvimento Colaborativo:
+## Nível 8: Extremamente Complexo e Criativo
 
-Subnível 8.1: Desenvolvimento de um ambiente colaborativo básico com controle de versão e gerenciamento de projetos.
-Subnível 8.2: Implementação de um ambiente completo e integrado com ferramentas avançadas para suporte extensivo a equipes de desenvolvimento.
+### Criação de Sistema de Workflow Personalizado
+- **Subnível 8.1:** Desenvolvimento de um sistema completo de gerenciamento de workflow com criação e edição de fluxos de trabalho.
+- **Subnível 8.2:** Implementação de monitoramento e ajustes dinâmicos em tempo real dos fluxos de trabalho.
 
-- Lista Antiga de Projetos
+### Inteligência Artificial e Machine Learning
+- **Subnível 8.1:** Implementação de algoritmos básicos de machine learning para previsão de vendas.
+- **Subnível 8.2:** Desenvolvimento de um módulo de IA avançado para análise de comportamento de clientes e personalização de ofertas.
+
+### Análise e Visualização Avançada de Dados
+- **Subnível 8.1:** Criação de painéis de controle dinâmicos com gráficos interativos e relatórios avançados.
+- **Subnível 8.2:** Implementação de visualizações 3D e análise em tempo real de grandes volumes de dados.
+
+### Desenvolvimento de Sistema de Recomendação
+- **Subnível 8.1:** Implementação de um sistema de recomendação básico para produtos ou serviços com base em regras predefinidas.
+- **Subnível 8.2:** Desenvolvimento de um sistema de recomendação avançado usando aprendizado de máquina para personalização dinâmica.
+
+### Criação de Aplicação de Realidade Aumentada (AR)
+- **Subnível 8.1:** Desenvolvimento de uma aplicação AR básica que interage com dados do Protheus.
+- **Subnível 8.2:** Implementação de uma aplicação AR avançada com funcionalidades imersivas e integração completa com o Protheus.
+
+### Integração com Plataformas de Blockchain
+- **Subnível 8.1:** Criação de uma integração básica com uma plataforma de blockchain para registrar transações.
+- **Subnível 8.2:** Desenvolvimento de uma solução completa para garantir integridade, rastreabilidade e segurança dos dados.
+
+### Automação Inteligente com Robotic Process Automation (RPA)
+- **Subnível 8.1:** Implementação de automação RPA para tarefas repetitivas e processos simples.
+- **Subnível 8.2:** Desenvolvimento de uma solução de RPA avançada com aprendizado contínuo e integração complexa com o sistema.
+
+### Criação de Ambiente de Desenvolvimento Colaborativo
+- **Subnível 8.1:** Desenvolvimento de um ambiente colaborativo básico com controle de versão e gerenciamento de projetos.
+- **Subnível 8.2:** Implementação de um ambiente completo e integrado com ferramentas avançadas para suporte extensivo a equipes de desenvolvimento.
+
+
+# Lista Antiga de Projetos
 
 Iniciante (1-10):
 1.	Hello World ADVPL:
